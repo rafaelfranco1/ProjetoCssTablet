@@ -1,0 +1,29 @@
+.box1 {
+	width:250px;
+	height: 250px;
+	background-color: #FFF;
+	padding:50px 0px 0px 30px;
+	border: 5px solid black;
+	border-radius:20px;
+	border-top:30px solid black;
+	border-bottom:30px solid  black;
+	border-left:10px solid black;
+	border-right:10px solid black;
+	margin:50px;
+	margin-bottom:100px;
+}
+
+.box2 {
+	width:250px;
+	height: 250px;
+	background-color: #FFF;
+	padding:50px 0px 0px 30px;
+	border: 5px solid black;
+	border-radius:20px;
+	border-top:30px solid black;
+	border-bottom:30px solid  black;
+	border-left:10px solid black;
+	border-right:10px solid black;
+	margin:50px;
+	margin-bottom:100px;
+}
